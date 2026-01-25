@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi There 👋
 
-<!--
-**Jai-Singh-yk/Jai-Singh-yk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Who am I ?
 
-Here are some ideas to get you started:
+I’m Jai a Junior Data Analyst with a passion for using data to uncover insights and support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tools
+- Languages: SQL, R
+- Databases: MySQL, Excel, Sheets
+- Visualisation: Power BI, Tableau  
+
+---
+
+## 🛠 What I’m Currently Working On
+- Building data analysis and dashboard projects using real-world datasets  
+- Cleaning, analysing, and visualising data to identify trends and actionable insights  
+- Expanding my skills and knowledge through hands-on projects  
+
+---
+
+## 🎓 Certifications
+- Google Data Analytics Professional Certificate 
+
+---
+
+## 📫 How to Reach Me
+- Email: jaisinghyk@outlook.com
+- GitHub: [Jai-Singh-yk](https://github.com/Jai-Singh-yk)
