@@ -2,7 +2,7 @@
 
 ## 💡 Who am I ?
 
-I’m Jai a Junior Data Analyst with a passion for using data to uncover insights and support decision-making.
+I’m Jai a Junior Data Analyst with a passion for using data to uncover insights and support decision-making. Welcome to my GitHub Page, where I showcase some of my projects check it out [here](https://github.com/Jai-Singh-yk/Portfolio/blob/main/README.md).
 
 ---
 
