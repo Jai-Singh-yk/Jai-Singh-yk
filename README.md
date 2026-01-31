@@ -27,4 +27,3 @@ I’m Jai a Junior Data Analyst with a passion for using data to uncover insight
 
 ## 📫 How to Reach Me
 - Email: jaisinghyk@outlook.com
-- Linkedin: [Jai Singh](www.linkedin.com/in/jai-singh-9a81213a9)
